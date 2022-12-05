@@ -1,0 +1,2 @@
+# basicECOM
+Django Ecommerce website
